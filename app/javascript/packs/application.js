@@ -1,4 +1,4 @@
-//import '../stylesheets/application';
+import '../stylesheets/application';
 //import 'material-dashboard.js';
 import 'bootstrap';
 
