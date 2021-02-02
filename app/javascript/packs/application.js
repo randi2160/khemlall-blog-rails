@@ -1,7 +1,7 @@
 //import '../stylesheets/application';
 //import 'material-dashboard.js';
 import 'bootstrap';
-import 'material/bootstrap-material-design.min.js';
+
 //import '../packs/material-dashboard.js'
 //import 'material/bootstrap-material-design';
 //import 'material/perfect-scrollbar.jquery.min';
