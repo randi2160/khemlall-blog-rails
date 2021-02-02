@@ -8,7 +8,7 @@ import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 //import "css/application.css"
 import "channels"
-//import "plugins"
+import "plugins"
 //import "core"
 //import "js"
 // Tailwind CSS
